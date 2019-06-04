@@ -27,11 +27,13 @@ img {
 }
 
 .bokarum {
+    align-self: center;
     grid-column: 3 / 6;
     grid-row: 5 / 8;
 }
 
 .bokalokal {
+    align-self: center;
     grid-column: 6 / -3;
     grid-row: 5 / 8;
 }
